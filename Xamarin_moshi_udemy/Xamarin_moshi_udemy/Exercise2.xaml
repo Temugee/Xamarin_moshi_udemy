@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_moshi_udemy.Exercise2">
+    <StackLayout>
+        <Label Text="nyc_photographer"/>
+        <Image Source="https://source.unsplash.com/featured/1200x800"/>
+        <Label Text="700 likes"/>
+        <StackLayout Orientation="Horizontal">
+            <Button Text="like"></Button>
+            <Button Text="like"></Button>
+            <Button Text="like"></Button>
+        </StackLayout>
+        <Label Text="lorem lorem lorem lorem lorem lorem lorem" />
+    </StackLayout>
+</ContentPage>
